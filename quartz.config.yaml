@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: github.com/rexbosma/voorbij
+  baseUrl: rexbosma.github.io/voorbij
   ignorePatterns:
     - private
     - templates
