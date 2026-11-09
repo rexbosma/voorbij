@@ -13,3 +13,15 @@ iframe[src$=".pdf"] {
   border-radius: 8px;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
 }
+:root {
+  /* Dit verbreedt de maximale breedte van de centrale content (notities en PDF's) */
+  --page-width: 1200px; 
+  
+  /* Dit verbreedt de totale lay-out inclusief de zijmenu's */
+  --full-width: 1600px;
+}
+
+/* Zorgt ervoor dat de tekst en embedded PDF's ook daadwerkelijk de nieuwe ruimte opvullen */
+.page .center, article {
+  max-width: 100%;
+}
