@@ -1,6 +1,0 @@
----
-aliases:
-  - Ank
-  - Anje
-  - Anneke
----
