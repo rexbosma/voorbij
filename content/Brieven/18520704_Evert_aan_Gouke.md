@@ -1,4 +1,4 @@
-
+Zie voor de originele brief [[19520704_Evert_aan_Gouke]]
 # Brief van Evert aan Gouke — ongedateerd (vermoedelijk vrijdag 4 juli 1952)
 
 
