@@ -1,5 +1,5 @@
 
-Brief van [[Mensen/Gouke Bosma|Gouke]] aan zijn ouders, broer [[Evert Bosma|Evert]] en zusters [[Anje Bosma|Anje]] en [[Geesje Bosma|Geesje]] — Valburg, 6 juli 1952
+Brief van [[Mensen/Gouke Bosma|Gouke]] aan zijn ouders, broer [[Evert Bosma|Evert]] en zusters [[Annie Bosma|Anje]] en [[Geesje Bosma|Geesje]] — Valburg, 6 juli 1952
 
 
 **[Pagina I]**

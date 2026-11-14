@@ -1,5 +1,5 @@
 ### Herinneringen
 
-Je vindt hier een verzameling  herinneringen. Ze zijn bijeengebracht in de eerste jaren van de opkomst van AI, maar wat je ziet of leest is tastbaar. 
+Hier is een aantal brieven bijeengebracht die in de jaren 50 geschreven zijn.
 
 
