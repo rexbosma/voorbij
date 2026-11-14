@@ -1,4 +1,4 @@
-# Brief van Evert aan Vader, Moeder en Geesje — Amsterdam, zondagmiddag (vermoedelijk eind september 1954)
+# Brief van Evert aan Vader, Moeder en Geesje — Amsterdam, zondagmiddag (vermoedelijk 11 of 19 september 1954)
 
 _Transcriptie van een handgeschreven brief (2 pagina's, gelinieerd papier, vrij lichte blauwe inkt, snel geschreven). Oorspronkelijke spelling aangehouden, ook waar Evert zich verschrijft ("AKADAMEIA"); interpunctie licht aangevuld. Onzekere lezingen staan tussen [?]._
 
