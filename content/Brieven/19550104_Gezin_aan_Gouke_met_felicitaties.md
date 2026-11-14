@@ -11,7 +11,7 @@ _[Annie]_
 
 Lieve Gouke,
 
-Je ziet wel, Gees wilde niet beginnen te schrijven, maar ze moest de sjoelbak opruimen en nu ben ik gauw achter het blaadje gaan zitten. Ik ben bang dat ze het zo ontdekt. Ja, het is al gebeurd. Maar nu allereerst eens hartelijk gefeliciteerd met je 23e verjaardag. Nu mag je zeker ook stemmen?
+Je ziet wel, Gees wilde nét beginnen te schrijven, maar ze moest de sjoelbak opruimen en nu ben ik gauw achter het blaadje gaan zitten. Ik ben bang dat ze het zo ontdekt. Ja, het is al gebeurd. Maar nu allereerst eens hartelijk gefeliciteerd met je 23e verjaardag. Nu mag je zeker ook stemmen?
 'k Hoop dat je een lekker kopje Nescafé kunt tracteren. Hier thuis ging het al aardig.
 Nou jong, ik heb niks meer te koop. We hebben elkaar nog maar pas gezien.
 Een heel prettige dag toegewenst en een gelukkig nieuwjaar.
