@@ -13,4 +13,4 @@ en Gode bevolen.
 Je liefh. Moeder.
 
 *Noten*
-- Datering: de brief past vóór Gouke's brief van 6 juli 1952. Daarin antwoordt hij op beide vragen: hij vraagt om "dat stel ondergoed" en schrijft over zijn gastgezin "Rooms maar daar praten we weinig over".
+- Datering: de brief past vóór Gouke's brief van 6 juli 1952. Daarin antwoordt hij op beide vragen: hij vraagt om "dat stel ondergoed" en schrijft over zijn gastgezin "Rooms maar daar praten we weinig over". Vermoedelijk zat deze brief bij het dikke pakket met de andere brieven.
